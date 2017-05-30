@@ -1,0 +1,46 @@
+{"dsAppUser": {
+  "ttAppUser": [
+    {
+      "AppUserid": "chris",
+      "Password": "chris",
+      "DomainName": "uk",
+      "FirstName": "Chris",
+      "Surname": "",
+      "Email": "chris@progress.com",
+      "UserNumber": 1,
+      "UserRoles": "PSCUser",
+      "IsDisabled": false,
+      "IsExpired": false,
+      "IsLocked": false,
+      "SortNum": null
+    },
+    {
+      "AppUserid": "walter",
+      "Password": "walter",
+      "DomainName": "finland",
+      "FirstName": "Walter",
+      "Surname": "",
+      "Email": "chris@gmail.com",
+      "UserNumber": 2,
+      "UserRoles": "PSCUser",
+      "IsDisabled": false,
+      "IsExpired": false,
+      "IsLocked": false,
+      "SortNum": null
+    },
+    {
+      "AppUserid": "daffy",
+      "Password": "daffy",
+      "DomainName": "uk",
+      "FirstName": "Daffy",
+      "Surname": "Duck",
+      "Email": "chris.skeldon@progress.com",
+      "UserNumber": 3,
+      "UserRoles": "PSCUser",
+      "IsDisabled": false,
+      "IsExpired": false,
+      "IsLocked": false,
+      "SortNum": null
+    }       
+  ]
+}}

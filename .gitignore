@@ -1,0 +1,19 @@
+# Git ignore file for OpenEdge projects.
+#
+# Ignore WebSpeed and Appserver logs
+logs/
+# Ignore compiled programs
+rcode/
+*.r
+# Ignore OE temp files
+tmp/
+# Do not want the database, but do want config/db
+/db/
+# Ignore database licence file
+*.lic
+# Ignore database lock file
+*.lk
+# ABLUnit test results
+results.xml
+# Ignore log files wherever there are
+*.log
